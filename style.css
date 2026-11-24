@@ -1,0 +1,40 @@
+body {
+    background-image: url("praha.jpg");
+    background-size: cover;
+}
+
+h3 {
+    color: #f72585;
+    text-align: left;
+    font-size: 50px;
+    font-style: italic;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+h4  {
+    color: #f72585;
+    text-align: left;
+    font-size: 40px;
+    font-style: italic;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+.border {
+    border: 10px solid plum;
+    margin: 200px;
+}
+
+img {
+    width: 300px;
+    margin: 0 auto;
+   padding: 20px;
+}
+
+.contact {
+    text-align: left;
+    font-size: 30px;
+    padding-left: 75px;
+    padding-bottom: 20px;
+}
